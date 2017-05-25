@@ -1,0 +1,8 @@
+
+Graphe Social :
+
+Sortie du Map =>
+Clé 		<Id,Amis>
+Valeurs <Autres amis>
+Sortie du Reduce =>
+Il prend une liste qui ont la même clé (deux amis) et il faut regarder si il y a des amis en communs dans les deux listes d'amis.
